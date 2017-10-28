@@ -1,0 +1,68 @@
+body {
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+
+.banner blockquote, h1 {
+	margin: 0;
+}
+.DIS {
+	color: purple;
+	float: left;
+}
+.HuskyADAPTLogo img {
+	height: 100px;
+	width: 250px;
+	padding: 0px;
+	position: absolute; top: 15px; left: 850px;
+}
+.DISplayLogo img {
+	height: 100px;
+	width: 100px;
+	position: absolute; top: 15px; left: 1130px;
+}
+
+.nav {
+	height: 40px;
+	font-size: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.nav ul {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding: 0;
+}
+.nav ul li {
+	list-style: none;
+}
+.nav ul li a{
+	text-decoration: none;
+	text-decoration: underline;
+	float: left;
+	display: block;
+	padding: 10px 20px;
+	color: black;
+	font-family: Palatino, fantasy;
+}
+.nav ul li a:hover{ 
+	color: purple;
+}
+.AOILinks ul li {
+	list-style: none;
+}
+.AOILinks ul li a{
+	text-decoration: none;
+	text-decoration: underline;
+	display: block;
+	padding: 0;
+	margin-left: 0;
+	color: black;
+	font-family: Palatino, fantasy;
+}
+.AOILinks ul li a:hover{ 
+	color: purple;
+}
