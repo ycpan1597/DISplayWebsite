@@ -76,11 +76,50 @@ body {
 	color: black;
 	font-family: Palatino, fantasy;
 }
+
+.mission h2 {
+	color: purple;
+}
+
+.AOIintro h2 {
+	color: purple;
+}
+.AOILinks h3 {
+	padding: 0;
+	margin: 0;
+}
+
+.AOILinks ul {
+	padding: 0;
+	margin: 0;
+}
+
+.AOILinks ul li a{
+	text-decoration: none;
+	text-decoration: underline;
+	display: block;
+	padding: 3px 20px;
+	color: black;
+	font-family: Palatino, sans-serif;
+}
+
 .AOILinks ul li a:hover{ 
 	color: purple;
 }
 
-p.PrestonContent {
+
+p.memberContent {
 	float: right;
 	width: 500px;
+}
+.teamMembers h2, h3 {
+	padding: 0;
+	margin: 0;
+}
+.member {
+	padding: 10px;
+}
+
+.member h2 { 
+	color: purple;
 }
